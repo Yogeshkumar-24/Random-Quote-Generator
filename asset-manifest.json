@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e198cc77.css",
-    "main.js": "/static/js/main.59e652fc.js",
-    "static/js/787.19c872b2.chunk.js": "/static/js/787.19c872b2.chunk.js",
-    "static/media/twitter.svg": "/static/media/twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
-    "static/media/tumblr.svg": "/static/media/tumblr.383158d23cd4818eb055b36b70d56dae.svg",
-    "index.html": "/index.html",
-    "main.e198cc77.css.map": "/static/css/main.e198cc77.css.map",
-    "main.59e652fc.js.map": "/static/js/main.59e652fc.js.map",
-    "787.19c872b2.chunk.js.map": "/static/js/787.19c872b2.chunk.js.map"
+    "main.css": "/Random-Quote-Generator/static/css/main.e198cc77.css",
+    "main.js": "/Random-Quote-Generator/static/js/main.5f445f91.js",
+    "static/js/787.19c872b2.chunk.js": "/Random-Quote-Generator/static/js/787.19c872b2.chunk.js",
+    "static/media/twitter.svg": "/Random-Quote-Generator/static/media/twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
+    "static/media/tumblr.svg": "/Random-Quote-Generator/static/media/tumblr.383158d23cd4818eb055b36b70d56dae.svg",
+    "index.html": "/Random-Quote-Generator/index.html",
+    "main.e198cc77.css.map": "/Random-Quote-Generator/static/css/main.e198cc77.css.map",
+    "main.5f445f91.js.map": "/Random-Quote-Generator/static/js/main.5f445f91.js.map",
+    "787.19c872b2.chunk.js.map": "/Random-Quote-Generator/static/js/787.19c872b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e198cc77.css",
-    "static/js/main.59e652fc.js"
+    "static/js/main.5f445f91.js"
   ]
 }
